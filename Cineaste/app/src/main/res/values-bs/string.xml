@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Filmovi</string>
+    <string name="favorite">Najdrazi</string>
+    <string name="search">Pretraga</string>
+    <string name="recent">Nedavni</string>
+
+</resources>
